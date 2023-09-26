@@ -4,10 +4,3 @@ theme: PaperMod
 params:
   env: production
 
-menu:
-  main:
-    - identifier: thesis
-      name: thesis
-      url: /thesis/
-      weight: 10
-
