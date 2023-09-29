@@ -1,6 +1,7 @@
-title: fprojetto
+baseURL: https://fprojetto.github.io/
+languageCode: en-gb
 theme: PaperMod
+title: fprojetto
 
 params:
   env: production
-
